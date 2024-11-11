@@ -1,5 +1,5 @@
-//GARV NANDWANA
-//23070123167
+// NAME - DEVANSH CHACHRA
+// PRN - 22070123039
 //To study and implement C++ 2D Array Matrices 
 #include <iostream>
 using namespace std;
