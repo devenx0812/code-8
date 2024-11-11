@@ -1,5 +1,5 @@
-//GARV NANDWANA
-//23070123167
+// NAME - DEVANSH CHACHRA
+// PRN - 22070123039
 //TRANSPOSE OF MATRIX 
 #include <iostream>
 using namespace std;
